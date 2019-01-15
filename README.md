@@ -1,4 +1,5 @@
 # Ng7tutorial
+Based on : https://coursetro.com/posts/code/171/Angular-7-Tutorial---Learn-Angular-7-by-Example
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
 
